@@ -1,0 +1,4 @@
+#reference "Orionsangel_Base/OrionsAngel-Console__POTATO.slangp"
+
+ScreenPlacementImage = SuperMetroid.png
+BackgroundImage = SuperMetroid.png

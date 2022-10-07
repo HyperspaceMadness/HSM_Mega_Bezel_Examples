@@ -1,0 +1,37 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
+
+ScreenPlacementImage = arkanoid.png
+BackgroundImage = arkanoid.png
+BackgroundVertImage = arkanoid.png
+
+// Scale and Position image inside the transparent area
+HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
+HSM_PLACEMENT_IMAGE_USE_HORIZONTAL = "1.000000"
+HSM_NON_INTEGER_SCALE_OFFSET = "93"
+
+// Small horizontal offset because the images have the transparent area off center
+// HSM_SCREEN_POSITION_X = "0.000000"
+// HSM_SCREEN_POSITION_Y = "0.000000"
+
+HSM_BZL_WIDTH = "200.000000"
+HSM_BZL_HEIGHT = "200.000000"
+
+// HSM_REFLECT_CORNER_ROTATION_OFFSET_TOP = "5.000000"
+// HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "8.000000"
+
+// Put the CRT and Bezel Under the Background
+HSM_CRT_LAYER_ORDER = 0
+
+// Put Background above CRT
+HSM_BG_LAYER_ORDER = 1
+
+// Matte with white
+HSM_BG_SOURCE_MATTE_TYPE = 1
+HSM_BG_BLEND_MODE = 1
+
+// HSM_BZL_OPACITY = "0.000000"
+// HSM_BZL_WIDTH = "168.000000"
+// HSM_BZL_HEIGHT = "149.000000"
+// HSM_SCREEN_POSITION_Y = "-4.000000"
+// HSM_BZL_OUTER_CORNER_RADIUS_SCALE = "0.000000"
+HSM_FRM_OPACITY = "0.000000"

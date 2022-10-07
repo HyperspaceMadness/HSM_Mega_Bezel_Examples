@@ -1,0 +1,4 @@
+#reference "Orionsangel_Base/OrionsAngel-Console__STD.slangp"
+
+ScreenPlacementImage = SMB3.png
+CabinetGlassImage = SMB3.png

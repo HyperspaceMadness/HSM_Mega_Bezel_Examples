@@ -1,0 +1,26 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
+
+ScreenPlacementImage = forgottnwor.png
+BackgroundImage = forgottnwor.png
+BackgroundVertImage = forgottnwor.png
+
+// Scale and Position image inside the transparent area
+HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
+HSM_PLACEMENT_IMAGE_USE_HORIZONTAL = "1.000000"
+HSM_NON_INTEGER_SCALE_OFFSET = "90"
+
+HSM_BZL_WIDTH = "180.000000"
+HSM_BZL_HEIGHT = "150.000000"
+
+// Put the CRT and Bezel Under the Background
+HSM_CRT_LAYER_ORDER = 0
+
+// Put Background above CRT
+HSM_BG_LAYER_ORDER = 1
+
+// Matte with white
+HSM_BG_SOURCE_MATTE_TYPE = 1
+HSM_BG_BLEND_MODE = 1
+
+HSM_SCREEN_POSITION_X = 0
+HSM_SCREEN_POSITION_Y = 0

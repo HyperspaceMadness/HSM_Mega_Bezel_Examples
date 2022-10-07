@@ -1,0 +1,19 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
+
+ScreenPlacementImage = textures/blktiger.png
+BackgroundImage = ../../../../shaders_slang/bezel/Mega_Bezel/shaders/textures/Placeholder_Transparent_16x16.png
+CabinetGlassImage = textures/blktiger.png
+
+HSM_VERTICAL_PRESET = "1.000000"
+HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
+HSM_PLACEMENT_IMAGE_MODE = "0.000000"
+
+HSM_NON_INTEGER_SCALE_OFFSET = "89.699944"
+HSM_SCREEN_POSITION_Y = "-1.000000"
+HSM_SCREEN_POSITION_X = "5.000000"
+
+HSM_TUBE_BLACK_EDGE_THICKNESS = "30.000000"
+
+HSM_BZL_WIDTH = "582.000000"
+HSM_BZL_HEIGHT = "577.000000"
+HSM_BZL_COLOR_VALUE = "4.800005"

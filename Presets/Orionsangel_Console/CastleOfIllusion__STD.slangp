@@ -1,0 +1,4 @@
+#reference "Orionsangel_Base/OrionsAngel-Console__STD.slangp"
+
+ScreenPlacementImage = CastleOfIllusion.png
+CabinetGlassImage = CastleOfIllusion.png

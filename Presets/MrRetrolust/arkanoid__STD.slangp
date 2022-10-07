@@ -1,0 +1,11 @@
+#reference "MrRetrolust_Base/Vertical__STD.slangp"
+
+ScreenPlacementImage = arkanoid.png
+BackgroundImage = arkanoid.png
+BackgroundVertImage = arkanoid.png
+// TopLayerImage = arkanoid_wings.png
+
+HSM_SCREEN_POSITION_Y = 8
+
+HSM_BZL_WIDTH = "86.000000"
+HSM_BZL_HEIGHT = "86.000000"

@@ -1,0 +1,45 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__4__STD-NO-REFLECT.slangp"
+
+BackgroundImage = textures/DOT_Background.png
+BackgroundVertImage = textures/DOT_Background.png
+CabinetGlassImage = textures/DOT_Bezel_Combined.png
+
+post_br = "2.000000"
+
+// Put the CRT and Bezel Under the Background
+HSM_CRT_LAYER_ORDER = 0
+
+// Put Background above CRT
+HSM_BG_LAYER_ORDER = 1
+
+HSM_DEVICE_SCALE_MODE = 0
+
+HSM_BG_OPACITY = "50.000000"
+HSM_TUBE_DIFFUSE_IMAGE_OPACITY = "0.000000"
+HSM_DECAL_OPACITY = "100.000000"
+
+HSM_NON_INTEGER_SCALE = "66.369999"
+HSM_SCREEN_POSITION_Y = "-18.000000"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_BZL_OPACITY = "0.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_REFLECT_GLOBAL_AMOUNT = "0.000000"
+
+HSM_CRT_SCREEN_BLEND_MODE = "2.000000"
+
+g_crtgamut = "1.000"
+g_gamma_in = "2.550000"
+g_lum = "0.80000"
+g_lift = "-0.200000"
+
+glow = "0.170000"
+bloom = "2.000000"
+brightboost1 = "3.000000"
+gsl = "1.000000"
+vertmask = "0.300000"
+shadowMask = "1.000000"
+
+shadowMask = "1.000000"
+GDV_NOISE_ON = "1.000000"
+addnoisesd = "0.35"
+noisetype = "1.0"
