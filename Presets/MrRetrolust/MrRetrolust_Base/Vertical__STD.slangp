@@ -2,7 +2,7 @@
 
 ScreenPlacementImage = outzone.png
 BackgroundImage = ../../../../../shaders_slang/bezel/Mega_Bezel/shaders/textures/Placeholder_Transparent_16x16.png
-BackgroundVertImage = outzone.png
+BackgroundVertImage = ../../../../../shaders_slang/bezel/Mega_Bezel/shaders/textures/Placeholder_Transparent_16x16.png
 CabinetGlassImage = CabinetGlass.png
 // TopLayerImage = outzone_wings.png
 

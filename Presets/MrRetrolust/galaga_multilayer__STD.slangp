@@ -1,0 +1,10 @@
+#reference "MrRetrolust_Base/Vertical__STD.slangp"
+
+ScreenPlacementImage = galaga_no_glass.png
+BackgroundVertImage = galaga_no_glass.png
+BackgroundImage = galaga_no_glass.png
+TopLayerImage = galaga_wings.png
+
+HSM_BG_BLEND_MODE = 1
+
+HSM_SCREEN_POSITION_Y = 0

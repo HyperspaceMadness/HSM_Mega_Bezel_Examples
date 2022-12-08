@@ -1,0 +1,30 @@
+#reference "MrRetrolust_Base/Vertical__STD.slangp"
+
+ScreenPlacementImage = invaders_no_glass.png
+BackgroundImage = invaders_no_glass.png
+LEDImage = invaders_backdrop.png
+TopLayerImage = invaders_wings.png
+
+HSM_BG_BLEND_MODE = 1
+HSM_LED_LAYER_ORDER = 0
+HSM_LED_BRIGHTNESS = 15
+
+HSM_POST_CRT_BRIGHTNESS = 3
+
+HSM_ASPECT_RATIO_MODE = 5
+HSM_NON_INTEGER_SCALE_OFFSET = 108.5
+HSM_SCREEN_POSITION_Y = -11
+
+HSM_REFLECT_GLOBAL_AMOUNT = 0
+
+gsl = 2
+shadowMask = 1
+mask_gamma = 1
+
+GDV_DECONVERGENCE_ON = 1
+
+glow = -0.15
+SIZEH = 15
+SIGMA_H = 2
+SIZEV = 15
+SIGMA_V = 2

@@ -1,0 +1,9 @@
+#reference "MrRetrolust_Base/Vertical__STD.slangp"
+
+ScreenPlacementImage = outzone_no_glass.png
+BackgroundVertImage = outzone_no_glass.png
+TopLayerImage = outzone_wings.png
+
+HSM_BG_BLEND_MODE = 1
+
+HSM_SCREEN_POSITION_Y = -4

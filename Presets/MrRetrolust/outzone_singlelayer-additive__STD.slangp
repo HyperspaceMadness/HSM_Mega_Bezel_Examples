@@ -1,0 +1,10 @@
+#reference "MrRetrolust_Base/Vertical__STD.slangp"
+
+ScreenPlacementImage = outzone_with_reflection.png
+BackgroundVertImage = outzone_with_reflection.png
+BackgroundImage = outzone_with_reflection.png
+// TopLayerImage = outzone_wings.png
+
+HSM_BG_BLEND_MODE = 2
+
+HSM_SCREEN_POSITION_Y = -4
